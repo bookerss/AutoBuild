@@ -1,0 +1,12 @@
+@import url("test1.css") ;
+body{
+    background: green;
+}
+.sina{
+    background: white;
+}
+.s4{background: url("../images/slice/edit.png") no-repeat;}
+.s5{background: url("../images/slice/goback-btn.png") no-repeat;}
+.s6{background: url("../images/slice/jgc.png") no-repeat;}
+.s7{background: url("../images/slice/pj-lbtn.jpg") no-repeat;}
+.s8{background: url("../images/slice/pj-rbtn.jpg") no-repeat;}

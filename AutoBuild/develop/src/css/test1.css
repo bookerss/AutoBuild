@@ -1,0 +1,15 @@
+body{
+    background: red;
+}
+.content{
+    background: red;
+}
+.bb{
+    border-radius: 50%;
+}
+.base64{
+    background: url("../images/user-64.png");
+}
+.s1{background: url("../images/slice/arrow-down.png") no-repeat;}
+.s2{background: url("../images/slice/arrow-up.png") no-repeat;}
+
